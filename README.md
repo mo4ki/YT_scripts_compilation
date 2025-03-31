@@ -17,7 +17,7 @@
 
 # requirements.txt
 ```
-*eyed3==0.9.7*
+eyed3==0.9.7
 grequests==0.7.0
 lxml==5.3.0
 moviepy==2.1.2
